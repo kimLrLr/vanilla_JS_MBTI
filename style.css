@@ -115,3 +115,8 @@ body {
 .result_infor::-webkit-scrollbar-track {
   background: transparent
 } */
+
+.main_con h2 {
+  font-weight: 500;
+  margin-bottom: 100px;
+}
